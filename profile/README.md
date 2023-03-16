@@ -10,7 +10,8 @@ First things first, you need access to INI's VPN. Kindly check out the [IT wiki 
 Once you found your way into the VPN you need an SNN monster account for yourself! Find Martino and get yourself an account (Just takes 2 mins). Now in the terminal type the following command:
 
 	ssh your_username@snnmonster.ini.uzh.ch
-	Enter your password!
+
+Enter your password!
 
 And... Voila! 
 You are on the SNN monster!
@@ -84,8 +85,8 @@ If nvcc is not recognised, you can download it using the following command:
 
 ### Installing JAX
 
-You are a part of EIS? Lemme guess.. you are using JAX for your project aren't you?
-JAX requires very specific versions of JAX and jaxlib according to the CUDA and cuDNN versions of your GPU. This tutorial is written after two days of failiure and probably 6+ hours of frustration. So it might be wise to follow it blindly.
+You are a part of EIS? Lemme guess.. you are using JAX for your project aren't you? <br>
+Installation of JAX requires very specific versions of JAX and jaxlib according to the CUDA and cuDNN versions of your GPU. This tutorial is written after two days of failiure and probably 6+ hours of frustration. So it might be wise to follow it blindly.
 
 Do not use PIP installer to install JAX and jaxlib until and unless you know the exact version that needs to be downloaded. The smartest way to install JAX would be to use Conda-forge. Conda-forge is a conda package manager that resolves the package dependencies for you! 
 
