@@ -90,12 +90,12 @@ Installation of JAX requires very specific versions of JAX and jaxlib according 
 
 Do not use PIP installer to install JAX and jaxlib until and unless you know the exact version that needs to be downloaded. The smartest way to install JAX would be to use Conda-forge. Conda-forge is a conda package manager that resolves the package dependencies for you! 
 
-###### <i>Installing conda-forge</i>
+##### <i>Installing conda-forge</i>
 
 	conda config --add channels conda-forge
 	conda config --set channel_priority strict
 
-Run the following commands to install the correct verions of jax and jaxlib.
+Run the following commands to install the correct versions of jax and jaxlib.
 
 	conda install jax
 	conda search jax --channel conda-forge
