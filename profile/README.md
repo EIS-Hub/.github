@@ -2,4 +2,4 @@
 
 Hallo Researcher!
 
-Welcome to the Emergent Intelligence Substrates group!
+Welcome to the Github of Emergent Intelligence Substrates group!
