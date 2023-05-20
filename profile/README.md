@@ -2,9 +2,9 @@
 
 Hallo Researcher!
 
-Welcome to the Github of Emergent Intelligence Substrates group!
+Welcome to the Github of Emerging Intelligence Substrates group!
 
-At the EIS-lab, we are driven by the question of how intelligence emerges from a physical substrate. 
+At the EIS lab, we are driven by the question of how intelligence emerges from a physical substrate. 
 
 Brain’s functionality has long been postulated to be related to its structure. This structure-function relationship is present at all levels of the hierarchy, from neurons and synapses, to dendritic arbors and of course, to neuronal connectivity. The low-level structures perform spatio-temporal filtering, while the higher-level structures define the dynamic interaction among the low-level features giving rise to functional graphs through connectivity.  
 In other words, in the brain, the hardware substrate is the algorithm, without an operating system. 
