@@ -1,4 +1,4 @@
-# Emergent Intelligence Substrates
+# Emerging Intelligence Substrates
 
 Hallo Researcher!
 
